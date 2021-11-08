@@ -7,6 +7,8 @@ Plug 'joshdick/onedark.vim'
 Plug 'preservim/nerdtree'
 Plug 'morhetz/gruvbox'
 Plug 'rakr/vim-one'
+Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
+"Plug 'davidhalter/jedi-vim'"
 
 call plug#end()
 
